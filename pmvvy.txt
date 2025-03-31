@@ -1,0 +1,25 @@
+
+
+You have been suggested the following scheme:
+
+Pradhan Mantri Vaya Vandana Yojana(PMVVY) :-
+        Under PMVVY, a senior citizen subscriber can get a monthly pension of Rs 9250 for 10 years by purchasing the plan for Rs 15 lakh.
+        After the completion of the 10 years, the purchasing price of Rs 15 lakh will be returned to the subscriber.
+        The minimum purchase price for a monthly pension is Rs 1,50,000. This will prove a monthly pension of Rs 1000 per month while the
+        subscription amount will be returned after 10 years . The maximum purchase price for monthly pension under PMVVY is Rs 15 lakh. 
+        This will ensure a monthly pension of Rs 9250 for 10 years while the original subscription amount will be returned after 10 years.
+
+
+Benifits of PMVVY :-
+        1.The PMVVY scheme provides subscribers with an assured return at the rate of 8% to 8.3% for 10 years
+        2.Loan of up to 75% of the purchase price can be availed after three years to cover emergencies
+        3.Due to medical emergencies , the subscribers can withdraw 98% of the purchase price
+        4.Purchase price will be paid back to the beneficiary if the pensioner passes away during the policy tenure.
+
+
+Calculations for PMVVY :-
+        Pension mode     Minimum Purchase Price (Rs.)     Maximum Purchase Price (Rs.)
+            Monthly              1,50,000                         15,00,000
+            Quarterly            1,49,068                         14,90,683
+            Half-yearly          1,47,601                         14,76,015
+            Yearly               1,44,578                         14,45,783

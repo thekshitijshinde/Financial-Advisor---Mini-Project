@@ -1,0 +1,34 @@
+
+
+Mutual Funds :-
+         It is a type of financial vehicle made up of a pool of money collected from many investors to 
+         invest in securities like stocks, bonds, money market instruments, and other assets. Mutual funds are operated by professional money managers, who allocate 
+         the funds assets and attempt to produce capital gains or income for the funds investors. 
+         A mutual fund's portfolio is structured and maintained to match the investment objectives stated in its prospectus.
+
+
+Types of Mutual Funds :-
+         1.Equity Funds : This sort of fund invests principally in stocks
+         2.Fixed-Income Funds : Focuses on investments that pay a set rate of return, such as government bonds, corporate bonds, or other debt instruments 
+         3.Balanced Funds : Invest in a hybrid of asset classes, whether stocks, bonds, money market instruments, or alternative investments. Objective is to reduce risk . 
+         4.Income Funds : These funds invest primarily in government and high-quality corporate debt, holding these bonds until maturity in order to provide interest streams. 
+         5.Exchange Traded Funds (ETFs) : An exchange traded fund (ETF) is a type of security that tracks an index, sector, commodity, or other asset, but which can be purchased 
+                                           or sold on a stock exchange the same as a regular stock.
+
+
+Benifits of Mutual Fund :- 
+         1.Diversification : Lot of options to invest are available as per amount & period
+         2.Proffestionally Managed: Your investment is managed by experts 
+         3.Flexibility to invest in Smaller Amounts 
+         4.Accessibility : Easy to buy .
+         
+        
+Calculations  :- 
+ _______________________________________________
+ |    Plans             |     Avg returns p.a  |
+ |______________________|______________________|       
+ | Large cap equity     |       12%-18%        |
+ | Mid cap equity       |       14%-17%        |
+ | Long term debt       |       6%-9%          |
+ |______________________|______________________|
+

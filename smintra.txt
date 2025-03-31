@@ -1,0 +1,30 @@
+
+
+You have been suggested the following scheme:
+
+Share Market Trading :
+    
+     • Intraday(Daily) Trading : 
+               Intraday trading involves buying and selling stocks within the same trading day. Here stocks are purchased, 
+               not to invest, but to earn profits by harnessing the movement of stock indices. Thus, the fluctuations in the 
+               prices of the shares are monitored to earn profits from the trading of stocks.
+ 
+       Benifits of Intraday trading :
+               1.Allowed to buy shares on margin
+               2.Allowed to short sell
+               3.Low Brokerage
+     
+     
+     • Swing Trading : 
+               Swing trading is a style of trading that attempts to capture short to medium term gains in a stock
+               (or any financial instrument) over a period of a few days to several weeks.
+               Swing traders primarily use technical analysis to look for trading opportunities.
+     
+       Benifits of Swing trading 
+               1.It maximizes short-term profit potential by capturing the bulk of market swings.
+               2.It requires less time to trade than day trading.
+
+
+Calculation for Trading :
+       For Intraday , lets assume a share is at price of 100 at time 10 am , at 11:30 an it becomes 101.2 .
+       The gain is 101.2 - 100 = 1.2 .So if you have 50 shares it will be 1.2 * 50 = 60 .

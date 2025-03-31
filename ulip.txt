@@ -1,0 +1,29 @@
+
+
+Unit Linked Insurance Policies (ULIP) :-
+        These are the insurance policies which offer you the potential of wealth creation while providing the 
+        security of a Life Cover. In ULIPs, a part of your premium is dedicated towards your Life Cover and the 
+        rest is assigned to a common pool of money, called fund, which invests in equity, debt, or a combination of both. 
+        The returns on your investments depend upon the performance of the fund opted by you.
+ 
+
+Benifits of ULIP :-
+        1.Flexible Investment Options (Low/Medium/High Risk)
+        2.Tax benefits
+        3.Goal-based planning
+        4.Market linked returns
+
+
+Example of ULIP  :- 
+        The returns from ULIP can vary based on the funds chosen by the investor. When it comes to ELSS, the returns can 
+        approximately range from 12% to 14%. However, they are subject to market variations. 
+        
+      
+Calculations     :- 
+       _______________________________________________________________________
+       |             Plan Name                           |   3yrs  |   5yrs  |
+       |_________________________________________________|_________|_________|
+       |Bajaj Allianz Life Equity Mid-Cap Pension Fund   | 16.13%  |  26.19% |	
+       |Bajaj Allianz Life Group Stable Gain Fund        | 8.27    |  11.61% |
+       |TATA AIA Life Future Select Equity Fund          | 15.46%  |  22.44% |
+       |_________________________________________________|_________|_________|

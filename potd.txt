@@ -1,0 +1,25 @@
+
+
+Post Office Time Deposits(POTD) :- 
+           This offers attractive returns on investment , depending on the maturity tenure selected by an investor. 
+           Tenures range between one and five years.This scheme is suitable for all sections of Indian society with 
+           a minimum investment of just Rs. 100 . There is no upper limit on the investment. Further, investors can 
+           freely choose the tenure for investment, the minimum period being 12 months, while the maximum time is 60 months
+
+
+Benifits of POTD are :- 
+          1.Returns guaranteed
+          2.Considerable interest rate
+          3.No volatility
+          4.Other facilities 
+          
+          
+Calculations :- 
+     ________________________________________
+     |     Tenure        |       ROI         |
+     |___________________|___________________|   
+     |     1 year        |       5.50%       |
+     |     2 years       |       5.50%       |
+     |     3 years       |       5.50%       |
+     |     5 years       |       6.70%       |
+     |___________________|___________________|
